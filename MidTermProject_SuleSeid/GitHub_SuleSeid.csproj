@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{104A076F-4168-4B5D-9ED7-A2B38865CF34}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MidTermProject_SuleSeid</RootNamespace>
-    <AssemblyName>MidTermProject_SuleSeid</AssemblyName>
+    <RootNamespace>GitHub_SuleSeid</RootNamespace>
+    <AssemblyName>GitHub_SuleSeid</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LinkedList_Singly.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

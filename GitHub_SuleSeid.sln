@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidTermProject_SuleSeid", "MidTermProject_SuleSeid\MidTermProject_SuleSeid.csproj", "{104A076F-4168-4B5D-9ED7-A2B38865CF34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub_SuleSeid", "MidTermProject_SuleSeid\GitHub_SuleSeid.csproj", "{104A076F-4168-4B5D-9ED7-A2B38865CF34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

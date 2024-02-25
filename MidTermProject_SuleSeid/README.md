@@ -26,12 +26,11 @@
 
 ### Link at least 3 repositories: Personal Project (See Part 2), best repository, and the 3rd part of this assignment.
 
-``` csharp
+```` csharp
 https://github.com/suleseid/GA_LinkedListSingly_SuleSeid
 https://github.com/suleseid/DataStructures_SulemanSeid
 https://github.com/suleseid/MidTermProject_SuleSeid
-```
-
+````
  ## I.Learning Goals/Career Aspirations: 
        a. My primary goal is to provide accurate and helpful responses to user queries.
        b. I aspire to continuously improve my understanding,
@@ -55,10 +54,11 @@ https://github.com/suleseid/MidTermProject_SuleSeid
                   Designed and implemented a personal portfolio website showcasing my projects, skills, and professional experience using HTML, CSS, and JavaScript.
        •  Work History: 
                 I have been working at SeaTac Airport with Delta airline, as a customer service three years and also with a different company in the same position at the airport. 
-
+```
 ## Project Relevance and Complexity
 
 ## A. How well the provided project aligns with industry standards and job relevance, as well as the complexity demonstrating the ability to solve significant problems:
+```csharp
 
 # 1. Relevance to Industry Standards and Job Relevance:
    - The project implements basic functionalities such as searching for stores, retrieving store indices by category,
@@ -76,7 +76,7 @@ https://github.com/suleseid/MidTermProject_SuleSeid
          one could consider implementing more advanced algorithms (e.g., binary search, sorting) or 
          data structures (e.g., hash maps, trees) to improve efficiency and scalability.
 
-## 3. Areas for Improvement:
+# 3. Areas for Improvement:
 
     - To enhance error handling and input validation to make the application more robust.
     - To implement more advanced algorithms and data structures to improve efficiency and 
@@ -86,8 +86,9 @@ https://github.com/suleseid/MidTermProject_SuleSeid
 
 -** Overall, while the provided project demonstrates a basic understanding of data structures and algorithms, 
   there is room for improvement to better align with industry standards and showcase the ability to solve more significant problems.
-
+```
 ## B Implementation of Data Structures
+```csharp
 - To evaluate the custom implementation of data structures or algorithms in the provided code
 ## a) Custom Implementation of Data Structures:
 
@@ -120,8 +121,9 @@ https://github.com/suleseid/MidTermProject_SuleSeid
      there are opportunities to enhance it by incorporating more advanced data structures, optimizing algorithmic complexity, 
      and improving code readability and maintainability. By addressing these aspects, 
      the project can better showcase an understanding of data structures and algorithms and the ability to build them from scratch.
-
+```
 ## C. Project Innovation and Problem Solving
+```csharp
 
 - To reward creative solutions to problems, utilize technology in novel ways, 
    and address real-world issues in the provided code, we can consider the following enhancements:
@@ -159,10 +161,10 @@ https://github.com/suleseid/MidTermProject_SuleSeid
 ## 8. Continuous Improvement:
      i. Establish a feedback loop to gather user feedback and iterate on the application based on insights and suggestions, 
      ontinuously improving its usability, performance, and feature set.
-
- ## D. Project Innovation and Problem Solving
+````
+ ### D. Project Innovation and Problem Solving
  --To reward creative solutions, novel technology use, and address real-world issues, let's enhance the provided project in the following ways:
-
+ ```csharp
 # a) Dynamic Data Loading and Persistence: 
    Instead of statically defining store information within the code, integrate the project with a database or utilize an API to dynamically load 
    and persist store data. This approach makes the project more adaptable to changes in store information and allows for scalability.
@@ -197,9 +199,9 @@ https://github.com/suleseid/MidTermProject_SuleSeid
   --** By incorporating these enhancements, the project will not only demonstrate creativity and 
      innovation but also address real-world issues faced by both consumers and businesses in the retail industry. 
      It will showcase the project's ability to leverage technology in novel ways to deliver value-added solutions.
-
+```
  ## E. Project Innovation and Problem Solving
-
+````csharp
  --**To reward creative solutions to problems, utilize technology in novel ways, 
    and address real-world issues in the provided code, we can consider the following enhancements:
 
@@ -235,12 +237,11 @@ https://github.com/suleseid/MidTermProject_SuleSeid
 //--Establish a feedback loop to gather user feedback and iterate on the application based on insights 
  and suggestions, continuously improving its usability, performance, and feature set.
 
-```
+````
 --** By incorporating these enhancements, the project can evolve from a basic store directory application to a sophisticated 
 and innovative solution that effectively addresses real-world needs while demonstrating creativity, technological prowess, 
 and practical utility.
-
-```
+```csharp
  ## F. Continuous Improvement and Learning
 
  --To evaluate evidence of ongoing project refinement, feature additions, adaptation to feedback, and learning of new skills through the project, we can consider the following aspects:
@@ -455,8 +456,8 @@ The "contains" method will return weather or not a list contains a particular el
 }
  
     
-```
-```csharp
+`````
+`````csharp
 
 namespace ConsMidTerm_Project
 {
